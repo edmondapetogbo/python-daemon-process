@@ -1,0 +1,14 @@
+{
+    "folder_paths": "~/Downloads", 
+    "scan_interval": 10,
+    "folders":{
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".svg"],
+        "Documents": [".pdf", ".docx", ".doc", ".txt", ".xlsx", ".pptx", ".odt"],
+        "Audio": [".mp3", ".wav", ".aac", ".flac", ".ogg"],
+        "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv"],
+        "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+        "Scripts": [".py", ".js", ".sh", ".bat", ".rb"],
+        "Executables": [".exe", ".msi", ".dmg", ".app"],
+        "Others": []
+    }
+}
