@@ -10,7 +10,7 @@ This repository contains a simple example of a **Python daemon (background proce
 
 ## ▶️ YouTube Explanation
 I explain this code step by step in this video:
-👉 https://youtube.com/YOUR_VIDEO_LINK
+👉 https://youtube.com/https://youtu.be/0dqSwpVOvVg
 
 ## 🛠 Requirements
 - Python 3.x
